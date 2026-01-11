@@ -31,6 +31,7 @@ Example 2:
     Explanation:
 
     This is the base case.
+```
 
 Constraints:
 
