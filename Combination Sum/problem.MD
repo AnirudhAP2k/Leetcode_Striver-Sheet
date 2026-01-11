@@ -6,8 +6,6 @@ The same number may be chosen from candidates an unlimited number of times. Two 
 
 The test cases are generated such that the number of unique combinations that sum up to target is less than 150 combinations for the given input.
 
-Given a positive integer n, return the nth element of the count-and-say sequence.
-
 **Example 1:**
 
 ```shell
