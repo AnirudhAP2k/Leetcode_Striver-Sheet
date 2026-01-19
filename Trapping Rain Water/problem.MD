@@ -4,7 +4,6 @@ Given `n` non-negative integers representing an elevation map where the width of
 
 
 **Example 1:**
-Example 1:
 
 ![alt text](image.png)
 
